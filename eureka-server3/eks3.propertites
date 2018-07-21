@@ -1,0 +1,5 @@
+eureka3-datacenter=cali
+eureka3-environment=development
+eureka3-server-port=8763
+eureka3-application-name=Discovery-Server
+eureka3-service-url=eureka1,eureka2
